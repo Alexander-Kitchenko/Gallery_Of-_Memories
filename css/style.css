@@ -9,7 +9,7 @@ html{
 
 body{
    background-color: #e5e5e5;
-   padding-top: 85px;
+   padding-top: 25px;
 }
 
 h1{
@@ -75,7 +75,8 @@ img{
 .dots-wrapper{
    display: flex;
    justify-content: center;
-   margin-top: 15px;
+   margin-top: 25px;
+   margin-bottom: 25px;
 }
 
 .dot.active{
